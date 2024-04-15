@@ -1,6 +1,6 @@
 # Repositorio Trabajos Prácticos Individuales - Sistemas de Control y Servicios
-
-# Trabajo Practico N°1:
+# Trabajos Prácticos correspondientes a la Unidad N°1
+# Trabajo Práctico N°1:
 Objetivos: 
 • Comprender los conceptos básicos y la definición de sistemas de control. 
 • Diferenciar los distintos tipos de señales y sistemas. 
